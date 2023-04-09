@@ -1,0 +1,2086 @@
+{
+  "easyBalance": 3.65,
+  "totalInvestments": 75644.91,
+  "totalBalance": 75648.56,
+  "hasIpo": false,
+  "hasEquity": true,
+  "investmentsQuantity": 33.0,
+  "availableWithdrawMoney": 3.65,
+  "isProjectedBalance": true,
+  "isCached": false,
+  "cacheUpdatedData": "0001-01-01T00:00:00",
+  "investments": [
+    {
+      "ir": 0.32,
+      "maturity": "2025-01-01T00:00:00",
+      "yield": 2.18,
+      "hasSchedulings": false,
+      "isCloseToMaturityDate": false,
+      "schedulings": [],
+      "currencyProfitAndLoss": 2.18,
+      "percentageProfitAndLoss": 38.38,
+      "showProfitAndLoss": true,
+      "symbolId": "FIXEDINCOME.TD.35747",
+      "investedCapital": 5.68,
+      "custodyId": 161,
+      "securityNameType": "Tesouro Direto",
+      "minimumWithdrawal": 7.86,
+      "incomeTaxFree": false,
+      "securityType": "TD",
+      "nickName": "Tesouro Prefixado 2025",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 7.86,
+      "netValue": 7.48,
+      "rentability": "PREFIXADO",
+      "updateDate": "31/12/2022 00:00",
+      "cache": false,
+      "unitPrice": 786.3,
+      "quantity": 0.01,
+      "hash": "c9a964dd5eb3487c90675544b43a774b-hashcode-161",
+      "investmentType": {
+        "id": 1,
+        "description": "Tesouro Direto e Títulos Públicos",
+        "color": "#4F034F"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Valor bruto",
+          "value": "R$ 7,86"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 7,48"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 5,68"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "PREFIXADO"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0,32"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Taxa BMF/BOVESPA",
+          "value": "R$ 0,06"
+        },
+        {
+          "key": "Quantidade",
+          "value": "0,01"
+        },
+        {
+          "key": "Liquidez",
+          "value": "Diária"
+        },
+        {
+          "key": "Vence em",
+          "value": "01/01/2025"
+        }
+      ]
+    },
+    {
+      "ir": 0.0,
+      "maturity": "2025-07-15T00:00:00",
+      "operationalDate": "2022-08-04T00:00:00",
+      "isAntecipated": false,
+      "isGuaranteedByFgc": false,
+      "secondaryUnitPrice": 1170.4,
+      "repurchaseUnitPrice": null,
+      "status": "",
+      "cancelable": false,
+      "orderId": "d66be639-67cf-45ca-8e05-b2811dffa666",
+      "updatedDateMarkToMarketSecondary": "12/12/2022",
+      "currencyProfitAndLoss": -57.13,
+      "percentageProfitAndLoss": -1.56,
+      "showProfitAndLoss": true,
+      "symbolId": null,
+      "investedCapital": 3645.50,
+      "custodyId": 4479542,
+      "securityNameType": "Debênture",
+      "minimumWithdrawal": 1196.12,
+      "incomeTaxFree": false,
+      "securityType": "DEB",
+      "nickName": "LIGHA9 - LIGHT SERVICOS DE ELETRICIDADE S/A ",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 3588.37,
+      "netValue": 3588.37,
+      "rentability": "IPC-A + 5,60%",
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 1196.1247271699,
+      "quantity": 3.0,
+      "hash": "e62a3261028040d39f5486bd641cc6e7-hashcode-4479542",
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "isSecondaryMarket": true,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Emissor",
+          "value": "LIGHT SERVICOS DE ELETRICIDADE S/A"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 3.588,37"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 3.588,37"
+        },
+        {
+          "key": "Valores atualizados em",
+          "value": "12/12/2022"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 3.645,50"
+        },
+        {
+          "key": "Data da aplicação",
+          "value": "04/08/2022"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "IPC-A + 5,60%"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Quantidade",
+          "value": "3"
+        },
+        {
+          "key": "Liquidez",
+          "value": "No vencimento"
+        },
+        {
+          "key": "Vence em",
+          "value": "15/07/2025"
+        }
+      ]
+    },
+    {
+      "ir": 0.0,
+      "maturity": "2025-08-15T00:00:00",
+      "operationalDate": "2022-08-04T00:00:00",
+      "isAntecipated": false,
+      "isGuaranteedByFgc": false,
+      "secondaryUnitPrice": 1138.88,
+      "repurchaseUnitPrice": null,
+      "status": "",
+      "cancelable": false,
+      "orderId": "1e066e0b-63cb-4a40-a378-f05952db1cdb",
+      "updatedDateMarkToMarketSecondary": "12/12/2022",
+      "currencyProfitAndLoss": -94.41,
+      "percentageProfitAndLoss": -3.89,
+      "showProfitAndLoss": true,
+      "symbolId": null,
+      "investedCapital": 2424.99,
+      "custodyId": 4479550,
+      "securityNameType": "Debênture",
+      "minimumWithdrawal": 1165.29,
+      "incomeTaxFree": false,
+      "securityType": "DEB",
+      "nickName": "LIGHB0 - LIGHT SERVICOS DE ELETRICIDADE S/A ",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 2330.58,
+      "netValue": 2330.58,
+      "rentability": "IPC-A + 5,60%",
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 1165.2916449999,
+      "quantity": 2.0,
+      "hash": "db1b8a755f2240358ebcfc347f336846-hashcode-4479550",
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "isSecondaryMarket": true,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Emissor",
+          "value": "LIGHT SERVICOS DE ELETRICIDADE S/A"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 2.330,58"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 2.330,58"
+        },
+        {
+          "key": "Valores atualizados em",
+          "value": "12/12/2022"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 2.424,99"
+        },
+        {
+          "key": "Data da aplicação",
+          "value": "04/08/2022"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "IPC-A + 5,60%"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Quantidade",
+          "value": "2"
+        },
+        {
+          "key": "Liquidez",
+          "value": "No vencimento"
+        },
+        {
+          "key": "Vence em",
+          "value": "15/08/2025"
+        }
+      ]
+    },
+    {
+      "ir": 656.81,
+      "maturity": "2027-11-25T00:00:00",
+      "operationalDate": "2019-11-27T00:00:00",
+      "isAntecipated": true,
+      "isGuaranteedByFgc": true,
+      "secondaryUnitPrice": 0.0,
+      "repurchaseUnitPrice": null,
+      "status": "",
+      "cancelable": false,
+      "orderId": "dd962f88-a3b5-4b3b-9873-e4d1631992dc",
+      "updatedDateMarkToMarketSecondary": null,
+      "currencyProfitAndLoss": 4378.72,
+      "percentageProfitAndLoss": 43.78,
+      "showProfitAndLoss": true,
+      "symbolId": null,
+      "investedCapital": 10000.0,
+      "custodyId": 1622397,
+      "securityNameType": "CDB",
+      "minimumWithdrawal": 1.44,
+      "incomeTaxFree": false,
+      "securityType": "CDB",
+      "nickName": "BANCO MASTER",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 14378.72,
+      "netValue": 13721.91,
+      "rentability": "12,50%",
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 1.437872,
+      "quantity": 10000.0,
+      "hash": "0c5a5f7f20b64deab0dd5a54ad40d6b4-hashcode-1622397",
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Valor bruto",
+          "value": "R$ 14.378,72"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 13.721,91"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 10.000,00"
+        },
+        {
+          "key": "Data da aplicação",
+          "value": "27/11/2019"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "12,50%"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 656,81"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Quantidade",
+          "value": "10000"
+        },
+        {
+          "key": "Liquidez",
+          "value": "No vencimento"
+        },
+        {
+          "key": "Vence em",
+          "value": "25/11/2027"
+        }
+      ]
+    },
+    {
+      "ir": 0.0,
+      "maturity": "2028-03-15T00:00:00",
+      "operationalDate": "2022-05-16T00:00:00",
+      "isAntecipated": false,
+      "isGuaranteedByFgc": false,
+      "secondaryUnitPrice": 0.0,
+      "repurchaseUnitPrice": null,
+      "status": "",
+      "cancelable": false,
+      "orderId": "85815d5f-a4c7-4106-a228-c3be103dfa91",
+      "updatedDateMarkToMarketSecondary": null,
+      "currencyProfitAndLoss": 11.23,
+      "percentageProfitAndLoss": 1.06,
+      "showProfitAndLoss": true,
+      "symbolId": null,
+      "investedCapital": 1056.29,
+      "custodyId": 3940903,
+      "securityNameType": "CRA",
+      "minimumWithdrawal": 1067.52,
+      "incomeTaxFree": false,
+      "securityType": "CRA",
+      "nickName": "ECO SECURITIZADORA DE DIREITOS CREDITORIOS DO AGRO",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1067.52,
+      "netValue": 1067.52,
+      "rentability": "IPC-A + 8,10%",
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 1067.52027659,
+      "quantity": 1.0,
+      "hash": "06380aac4a5e45609c8f8e1c271a695b-hashcode-3940903",
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "isSecondaryMarket": true,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Valor bruto",
+          "value": "R$ 1.067,52"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 1.067,52"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 1.056,29"
+        },
+        {
+          "key": "Data da aplicação",
+          "value": "16/05/2022"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "IPC-A + 8,10%"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Quantidade",
+          "value": "1"
+        },
+        {
+          "key": "Liquidez",
+          "value": "No vencimento"
+        },
+        {
+          "key": "Vence em",
+          "value": "15/03/2028"
+        }
+      ]
+    },
+    {
+      "ir": 0.0,
+      "maturity": "2029-10-15T00:00:00",
+      "operationalDate": "2022-08-04T00:00:00",
+      "isAntecipated": false,
+      "isGuaranteedByFgc": false,
+      "secondaryUnitPrice": 1005.21,
+      "repurchaseUnitPrice": null,
+      "status": "",
+      "cancelable": false,
+      "orderId": "ad54ad6d-1b68-472e-a647-ef9d93104cc5",
+      "updatedDateMarkToMarketSecondary": "12/12/2022",
+      "currencyProfitAndLoss": -276.25,
+      "percentageProfitAndLoss": -7.99,
+      "showProfitAndLoss": true,
+      "symbolId": null,
+      "investedCapital": 3453.27,
+      "custodyId": 4479554,
+      "securityNameType": "Debênture",
+      "minimumWithdrawal": 1059.01,
+      "incomeTaxFree": false,
+      "securityType": "DEB",
+      "nickName": "RUMOA3 - RUMO S.A.",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 3177.02,
+      "netValue": 3177.02,
+      "rentability": "IPC-A + 5,76%",
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 1059.0072341157,
+      "quantity": 3.0,
+      "hash": "b743e03e13c2414597f2bb4bfcf0406b-hashcode-4479554",
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "isSecondaryMarket": true,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Emissor",
+          "value": "RUMO S.A."
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 3.177,02"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 3.177,02"
+        },
+        {
+          "key": "Valores atualizados em",
+          "value": "12/12/2022"
+        },
+        {
+          "key": "Valor aplicado",
+          "value": "R$ 3.453,27"
+        },
+        {
+          "key": "Data da aplicação",
+          "value": "04/08/2022"
+        },
+        {
+          "key": "Rentabilidade",
+          "value": "IPC-A + 5,76%"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "IOF sobre o rendimento",
+          "value": "R$ 0,00"
+        },
+        {
+          "key": "Quantidade",
+          "value": "3"
+        },
+        {
+          "key": "Liquidez",
+          "value": "No vencimento"
+        },
+        {
+          "key": "Vence em",
+          "value": "15/10/2029"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/ALASKAINS1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Reg_AlaskaIns1808.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Termo_AlaskaIns_1808.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 1000.0,
+      "minAdditionalPurchase": 500.0,
+      "minTick": 1000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 5,
+      "currencyProfitAndLoss": 229.26,
+      "percentageProfitAndLoss": 11.46,
+      "showProfitAndLoss": true,
+      "symbolId": "FUND.6744",
+      "investedCapital": 2000.00,
+      "custodyId": 435325,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 500.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Alaska Institucional FIA",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 2229.26,
+      "netValue": 2192.39,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 815.28326825,
+      "hash": "951fc2eb8cdb4ffb82a7a7427af104f5-hashcode-435325",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 2,000.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 500.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 1,000.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "2.00%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "33 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 2,229.26"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 2,192.39"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 36.87"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/ALASKAINS1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Reg_AlaskaIns1808.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Termo_AlaskaIns_1808.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 1000.0,
+      "minAdditionalPurchase": 500.0,
+      "minTick": 1000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 5,
+      "currencyProfitAndLoss": 0.00,
+      "percentageProfitAndLoss": 0.0,
+      "showProfitAndLoss": false,
+      "symbolId": "FUND.6744",
+      "investedCapital": 0.00,
+      "custodyId": 435325,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 500.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Alaska Institucional FIA",
+      "settlement": true,
+      "settlementType": 3,
+      "grossValue": 0.00,
+      "netValue": 0.00,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 0.0,
+      "hash": "d7374f012a9b47d9a9d36e0aef42ef0f-hashcode-435325",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 500.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 1,000.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "2.00%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "33 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0.00"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/REALFIA1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Complementares",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/FIC_REALFIA_1611.pdf",
+          "displayOrder": 3
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/REG_REALFIABDR.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/TERMONOVO_REALFIA.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 5000.0,
+      "minAdditionalPurchase": 1000.0,
+      "minTick": 5000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 5,
+      "currencyProfitAndLoss": 78.78,
+      "percentageProfitAndLoss": 1.13,
+      "showProfitAndLoss": true,
+      "symbolId": "FUND.23272",
+      "investedCapital": 7000.00,
+      "custodyId": 298761,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 1000.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Real Investor FIC FIA BDR I",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 7078.78,
+      "netValue": 7066.96,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 460.88084598,
+      "hash": "16b6874634654b7797e023654d1f8ce2-hashcode-298761",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 7,000.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 1,000.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 5,000.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "1.85%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "29 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 7,078.78"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 7,066.96"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 11.82"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/REALFIA1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Complementares",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/FIC_REALFIA_1611.pdf",
+          "displayOrder": 3
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/REG_REALFIABDR.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/TERMONOVO_REALFIA.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 5000.0,
+      "minAdditionalPurchase": 1000.0,
+      "minTick": 5000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 5,
+      "currencyProfitAndLoss": 0.00,
+      "percentageProfitAndLoss": 0.0,
+      "showProfitAndLoss": false,
+      "symbolId": "FUND.23272",
+      "investedCapital": 0.00,
+      "custodyId": 298761,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 1000.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Real Investor FIC FIA BDR I",
+      "settlement": true,
+      "settlementType": 3,
+      "grossValue": 0.00,
+      "netValue": 0.00,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 0.0,
+      "hash": "d5c2e0865f7f41c6af48b24500166fb1-hashcode-298761",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 1,000.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 5,000.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "1.85%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "29 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0.00"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/TROPVALUE1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/reg_value.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Termo_Value.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 100.0,
+      "minAdditionalPurchase": 100.0,
+      "minTick": 1000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 1,
+      "currencyProfitAndLoss": -2113.03,
+      "percentageProfitAndLoss": -38.42,
+      "showProfitAndLoss": true,
+      "symbolId": "FUND.18554",
+      "investedCapital": 5500.00,
+      "custodyId": 147370,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 100.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Tropico Value FIA",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 3386.97,
+      "netValue": 3386.97,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 3.6738354,
+      "hash": "5fd070418d694526889ffcae09bb8ad7-hashcode-147370",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 5,500.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 100.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 100.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "2.00%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "32 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 3,386.97"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 3,386.97"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0.00"
+        }
+      ]
+    },
+    {
+      "graph": {
+        "performances": null,
+        "benchmarks": null,
+        "riskInvestiment": 4.0
+      },
+      "externalInfo": [
+        {
+          "nickname": "Essenciais",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/TROPVALUE1122.pdf",
+          "displayOrder": 1
+        },
+        {
+          "nickname": "Regulamento",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/reg_value.pdf",
+          "displayOrder": 4
+        },
+        {
+          "nickname": "Adesão",
+          "info": "https://s3.amazonaws.com/br.com.easynvest.uploads.site/uploads/Termo_Value.pdf",
+          "displayOrder": 5
+        }
+      ],
+      "type": "Ações",
+      "minBalance": 100.0,
+      "minAdditionalPurchase": 100.0,
+      "minTick": 1000.0,
+      "lastMonthRentability": null,
+      "processHourLimitDescription": "Resgates solicitados após às 12h serão processados no próximo dia útil",
+      "isApplicable": true,
+      "riskInvestiment": 4.0,
+      "morningstarRating": 1,
+      "currencyProfitAndLoss": 0.00,
+      "percentageProfitAndLoss": 0.0,
+      "showProfitAndLoss": false,
+      "symbolId": "FUND.18554",
+      "investedCapital": 0.00,
+      "custodyId": 147370,
+      "securityNameType": "Fundos de investimentos",
+      "minimumWithdrawal": 100.0,
+      "incomeTaxFree": false,
+      "securityType": "FUND",
+      "nickName": "Tropico Value FIA",
+      "settlement": true,
+      "settlementType": 3,
+      "grossValue": 0.00,
+      "netValue": 0.00,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.00,
+      "quantity": 0.0,
+      "hash": "fd960e663b11491faa9d4913182fcc6f-hashcode-147370",
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": [
+        {
+          "key": "Aplicação inicial",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Horário para aplicação",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Horário para resgate",
+          "value": "Até às 12h"
+        },
+        {
+          "key": "Movimentação mínima",
+          "value": "R$ 100.00"
+        },
+        {
+          "key": "Saldo mínimo",
+          "value": "R$ 100.00"
+        },
+        {
+          "key": "Taxa de administração",
+          "value": "2.00%"
+        },
+        {
+          "key": "Liquidação de resgate",
+          "value": "32 dia(s)"
+        },
+        {
+          "key": "Valor bruto",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "Valor líquido",
+          "value": "R$ 0.00"
+        },
+        {
+          "key": "IR sobre o rendimento",
+          "value": "R$ 0.00"
+        }
+      ]
+    },
+    {
+      "stockCode": "AGRO3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 2756.32,
+      "financialCurrentValue": 2756.32,
+      "lastPrice": 29.96,
+      "totalQuantity": 92.0,
+      "averagePrice": 26.38,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "AGRO3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 2756.32,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 92.0,
+      "hash": "3f60c922a1ea43e9a207e67c63f2bd7b-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "AURA33",
+      "marketCode": "BDR",
+      "financialValueCurrent": 1140.00,
+      "financialCurrentValue": 1140.00,
+      "lastPrice": 30.00,
+      "totalQuantity": 38.0,
+      "averagePrice": 28.37,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "BDR",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "AURA33",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1140.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 38.0,
+      "hash": "bda4e59950de48ea84ff7395e712ced8-hashcode-0",
+      "investmentType": {
+        "id": 10,
+        "description": "BDR",
+        "color": "#987003"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BBDC4",
+      "marketCode": "Ação",
+      "financialValueCurrent": 833.25,
+      "financialCurrentValue": 833.25,
+      "lastPrice": 15.15,
+      "totalQuantity": 55.0,
+      "averagePrice": 20.35,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BBDC4",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 833.25,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 55.0,
+      "hash": "042324daaf3949d299ec414192837f91-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BRAP3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1662.05,
+      "financialCurrentValue": 1662.05,
+      "lastPrice": 25.57,
+      "totalQuantity": 65.0,
+      "averagePrice": 22.64,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BRAP3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1662.05,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 65.0,
+      "hash": "3bd885dd04ea433da53282743ad7574d-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BRAP4",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1991.24,
+      "financialCurrentValue": 1991.24,
+      "lastPrice": 29.72,
+      "totalQuantity": 67.0,
+      "averagePrice": 24.61,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BRAP4",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1991.24,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 67.0,
+      "hash": "25961d9a58804dc1b1456f7722e9961c-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BRKM5",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1782.00,
+      "financialCurrentValue": 1782.00,
+      "lastPrice": 23.76,
+      "totalQuantity": 75.0,
+      "averagePrice": 28.49,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BRKM5",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1782.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 75.0,
+      "hash": "0fe4c24466be44e3a8ece25ec83b933e-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BRSR6",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1940.00,
+      "financialCurrentValue": 1940.00,
+      "lastPrice": 9.70,
+      "totalQuantity": 200.0,
+      "averagePrice": 10.53,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BRSR6",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1940.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 200.0,
+      "hash": "b4620544ac61409d89576c39efe6aea3-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "BTAL11",
+      "marketCode": "FII",
+      "financialValueCurrent": 1710.00,
+      "financialCurrentValue": 1710.00,
+      "lastPrice": 95.00,
+      "totalQuantity": 18.0,
+      "averagePrice": 101.58,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "FII",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "BTAL11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1710.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 18.0,
+      "hash": "90246a2e6a0543599e07fc6d0af4488a-hashcode-0",
+      "investmentType": {
+        "id": 9,
+        "description": "FII",
+        "color": "#D48C08"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "COCA34",
+      "marketCode": "BDR",
+      "financialValueCurrent": 1021.86,
+      "financialCurrentValue": 1021.86,
+      "lastPrice": 56.77,
+      "totalQuantity": 18.0,
+      "averagePrice": 55.93,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "BDR",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "COCA34",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1021.86,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 18.0,
+      "hash": "bc6ea88418944dd4904763492ac5a6e8-hashcode-0",
+      "investmentType": {
+        "id": 10,
+        "description": "BDR",
+        "color": "#987003"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "CPFE3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1328.00,
+      "financialCurrentValue": 1328.00,
+      "lastPrice": 33.20,
+      "totalQuantity": 40.0,
+      "averagePrice": 33.98,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "CPFE3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1328.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 40.0,
+      "hash": "32c7d6b3b5084d1aa711eb4ea6cad37b-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "CPLE6",
+      "marketCode": "Ação",
+      "financialValueCurrent": 3164.00,
+      "financialCurrentValue": 3164.00,
+      "lastPrice": 7.91,
+      "totalQuantity": 400.0,
+      "averagePrice": 7.41,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "CPLE6",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 3164.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 400.0,
+      "hash": "e10ee8b3f2b54dbea7756d41c98d0f7a-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "ENAT3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1539.00,
+      "financialCurrentValue": 1539.00,
+      "lastPrice": 13.50,
+      "totalQuantity": 114.0,
+      "averagePrice": 15.06,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "ENAT3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1539.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 114.0,
+      "hash": "d3457444271243569a3d9b79ee3e56fc-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "GGRC11",
+      "marketCode": "FII",
+      "financialValueCurrent": 1624.00,
+      "financialCurrentValue": 1624.00,
+      "lastPrice": 116.00,
+      "totalQuantity": 14.0,
+      "averagePrice": 125.82,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "FII",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "GGRC11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1624.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 14.0,
+      "hash": "518fed075f674e79bcfa198d72fba379-hashcode-0",
+      "investmentType": {
+        "id": 9,
+        "description": "FII",
+        "color": "#D48C08"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "GOAU4",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1258.09,
+      "financialCurrentValue": 1258.09,
+      "lastPrice": 12.97,
+      "totalQuantity": 97.0,
+      "averagePrice": 10.30,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "GOAU4",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1258.09,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 97.0,
+      "hash": "738ad6716c3d4b52abf3c9d4aefcb2b7-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "JBSS3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 703.68,
+      "financialCurrentValue": 703.68,
+      "lastPrice": 21.99,
+      "totalQuantity": 32.0,
+      "averagePrice": 31.70,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "JBSS3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 703.68,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 32.0,
+      "hash": "032366df38424f0f94fa27e8a9951bd6-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "LVBI11",
+      "marketCode": "FII",
+      "financialValueCurrent": 412.12,
+      "financialCurrentValue": 412.12,
+      "lastPrice": 103.03,
+      "totalQuantity": 4.0,
+      "averagePrice": 131.99,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "FII",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "LVBI11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 412.12,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 4.0,
+      "hash": "5cba8928b017424ca7ab15a0e2698ccf-hashcode-0",
+      "investmentType": {
+        "id": 9,
+        "description": "FII",
+        "color": "#D48C08"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "MRFG3",
+      "marketCode": "Ação",
+      "financialValueCurrent": 2288.10,
+      "financialCurrentValue": 2288.10,
+      "lastPrice": 8.70,
+      "totalQuantity": 263.0,
+      "averagePrice": 12.24,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "MRFG3",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 2288.10,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 263.0,
+      "hash": "fb01e6f4c1e04f2f94e3bec438b6f648-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "SANB11",
+      "marketCode": "Ação",
+      "financialValueCurrent": 1578.64,
+      "financialCurrentValue": 1578.64,
+      "lastPrice": 28.19,
+      "totalQuantity": 56.0,
+      "averagePrice": 29.63,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "SANB11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 1578.64,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 56.0,
+      "hash": "4a66e7e3f6a54d4199c61afffbcf18b0-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "SMAL11",
+      "marketCode": "ETF",
+      "financialValueCurrent": 965.20,
+      "financialCurrentValue": 965.20,
+      "lastPrice": 96.52,
+      "totalQuantity": 10.0,
+      "averagePrice": 118.60,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "ETF",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "SMAL11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 965.20,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 10.0,
+      "hash": "9c68c13b640344cb879bfa78b1b73f53-hashcode-0",
+      "investmentType": {
+        "id": 8,
+        "description": "ETF",
+        "color": "#FFE49B"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "TAEE11",
+      "marketCode": "Ação",
+      "financialValueCurrent": 6379.28,
+      "financialCurrentValue": 6379.28,
+      "lastPrice": 34.67,
+      "totalQuantity": 184.0,
+      "averagePrice": 37.50,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "TAEE11",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 6379.28,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 184.0,
+      "hash": "f942ef78f82b43c98cd5f52de4940f47-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    },
+    {
+      "stockCode": "TRPL4",
+      "marketCode": "Ação",
+      "financialValueCurrent": 2323.00,
+      "financialCurrentValue": 2323.00,
+      "lastPrice": 23.00,
+      "totalQuantity": 101.0,
+      "averagePrice": 23.36,
+      "canUseAveragePrice": true,
+      "showProfitAndLoss": true,
+      "currencyProfitAndLoss": 0.0,
+      "percentageProfitAndLoss": 0.0,
+      "symbolId": null,
+      "investedCapital": 0.0,
+      "custodyId": 0,
+      "securityNameType": "Ação",
+      "minimumWithdrawal": null,
+      "incomeTaxFree": false,
+      "securityType": "STOCK",
+      "nickName": "TRPL4",
+      "settlement": false,
+      "settlementType": 0,
+      "grossValue": 2323.00,
+      "netValue": 0.0,
+      "rentability": null,
+      "updateDate": null,
+      "cache": false,
+      "unitPrice": 0.0,
+      "quantity": 101.0,
+      "hash": "ecd28b1d45a34ec0b8ee7e97034e8152-hashcode-0",
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "isSecondaryMarket": false,
+      "isValid": false,
+      "details": []
+    }
+  ],
+  "investmentPortfolio": [
+    {
+      "investmentType": {
+        "id": 1,
+        "description": "Tesouro Direto e Títulos Públicos",
+        "color": "#4F034F"
+      },
+      "value": 7.86,
+      "percentagePortfolio": 0.0,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 2,
+        "description": "Renda Fixa Privada",
+        "color": "#87027B"
+      },
+      "value": 24542.21,
+      "percentagePortfolio": 32.4,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 3,
+        "description": "Fundos de Investimento",
+        "color": "#3CCBDA"
+      },
+      "value": 12695.01,
+      "percentagePortfolio": 16.8,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 4,
+        "description": "COE",
+        "color": "#E6258C"
+      },
+      "value": 0.0,
+      "percentagePortfolio": 0.0,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 6,
+        "description": "Previdência Privada",
+        "color": "#9AC000"
+      },
+      "value": 0.0,
+      "percentagePortfolio": 0.0,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 7,
+        "description": "Ação",
+        "color": "#FFBB00"
+      },
+      "value": 31526.65,
+      "percentagePortfolio": 41.7,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 8,
+        "description": "ETF",
+        "color": "#FFE49B"
+      },
+      "value": 965.20,
+      "percentagePortfolio": 1.3,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 9,
+        "description": "FII",
+        "color": "#D48C08"
+      },
+      "value": 3746.12,
+      "percentagePortfolio": 5.0,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 10,
+        "description": "BDR",
+        "color": "#987003"
+      },
+      "value": 2161.86,
+      "percentagePortfolio": 2.9,
+      "isDelayed": false
+    },
+    {
+      "investmentType": {
+        "id": 11,
+        "description": "Renda Variável - Outros",
+        "color": "#6C4F00"
+      },
+      "value": 0.0,
+      "percentagePortfolio": 0.0,
+      "isDelayed": false
+    }
+  ],
+  "isDelayed": false,
+  "isFirstInvestment": false,
+  "delayedMessages": null,
+  "showInvestments": true,
+  "showBalance": true,
+  "showPatrimony": true
+}
